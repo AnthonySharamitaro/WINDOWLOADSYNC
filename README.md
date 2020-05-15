@@ -7,11 +7,7 @@
 
 <h3 class="text__custom">FREE JAVASCRIPT PLUGIN.&nbsp; ORGANIZED AND SYNCRONIZED. <span style="color:#a0a0a0 !important;">:-)</span></h3>
 
-<button type="button" title="View Example" style="border-collapse:collapse;padding:1rem;" onclick="window.location.assign('dashboard.html');">View Example</button>
-
-&nbsp;
-
-<button type="button" title="View Source Code on GitHub &rsquo;" style="border-collapse:collapse;padding:1rem;" onclick="window.location.assign('https://github.com/AnthonySharamitaro/WINDOWLOADSYNC');">View Source Code on GitHub &radic;</button>
+<p>View Example:  <a href="http://WindowLoadSync.com/" title="WindowLoadSync" target="_blank">http://WindowLoadSync.com/</a></p>
 
 <br /><br />
 
