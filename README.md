@@ -7,12 +7,14 @@
 
 <h3 class="text__custom">FREE JAVASCRIPT PLUGIN.&nbsp; ORGANIZED AND SYNCRONIZED. <span style="color:#a0a0a0 !important;">:-)</span></h3>
 
+<br />
+
 <p>View Example:  <a href="http://WindowLoadSync.com/" title="WindowLoadSync" target="_blank">http://WindowLoadSync.com/</a></p>
 
-<br /><br />
+<br />
 
 <p class="text__custom">
   <a href="https://github.com/AnthonySharamitaro/WINDOWLOADSYNC" title="GitHub &middot; AnthonySharamitaro &middot; WINDOWLOADSYNC" target="_blank">https://github.com/AnthonySharamitaro/WINDOWLOADSYNC</a>
 </p>
 
-<br /><br />
+<br /><br /><br />
